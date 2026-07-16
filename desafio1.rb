@@ -5,4 +5,4 @@ puts "Digite seu sobrenome: "
 sobrenome = gets.chomp
 puts "Digite sua idade: "
 idade = gets.chomp.to_i
-puts "Bem vindo #{nome} #{sobrenomenome} de #{idade} anos."
+puts "Bem vindo #{nome} #{sobrenome} de #{idade} anos."
